@@ -4,7 +4,7 @@
 ## Project Description
 **This is a training project that I completed during my training in the Web Layout course "Basic Level", as part of obtaining the profession of "Web Application Tester".**
 
-<a href="https://inginiar.github.io/portfolio/" target="_blank">The site</a>
+<a href="https://inginiar.github.io/portfolio/" target="blank">The site</a>
 is set up in accordance with the basic requirements:
 * Pixel perfect is implemented (the layout image is located in the root of the repository);
 * All states of interactive elements are implemented (with smooth animation);
@@ -17,7 +17,7 @@ ___
 ## Описание проекта
 **Это учебный проект, выполненный мной в ходе обучения на курсе Веб-верстка «Базовый уровень», в рамках получения профессии «Тестировщик-web приложений».**
 
- <a href="https://inginiar.github.io/portfolio/" target="_blank">Сайт</a> сверстан в соответствии с основными требованиями: 
+ <a href="https://inginiar.github.io/portfolio/" target="blank">Сайт</a> сверстан в соответствии с основными требованиями: 
 * Реализован pixel perfect (макетное изображение находится в корне репозитория); 
 * Реализованы все состояния интерактивных элементов (с плавностью анимации); 
 * При именовании классов использована методология БЭМ;
